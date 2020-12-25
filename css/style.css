@@ -145,6 +145,8 @@ header{
 .s_h{
 	margin-top: 0;
 	margin-bottom: 85px;
+	font-size: 30px;
+   	word-spacing: 6px;
 	color: #333333;
 }
 .s_form{
